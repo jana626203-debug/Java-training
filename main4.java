@@ -2,7 +2,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int a = 6666;
+        int a = 56;
         int l,p;
         boolean f=true;
         while((a/10)!=0){
