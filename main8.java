@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         
-        String a = "Jeevan At @2026#";
-        
+        String a = "Janarthana Is a Good boy#2006";
         
         int uc = 0;
         int lc = 0;
