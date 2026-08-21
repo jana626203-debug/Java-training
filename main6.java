@@ -4,7 +4,7 @@ public class Main
 	    String a = "jana";
 	    int c=0;
 	    for(int i = 0;i < a.length();i++)
-	    {
+			{
 	        c=0;
 	        for(int j = 0;j < a.length();j++)
 	        {
